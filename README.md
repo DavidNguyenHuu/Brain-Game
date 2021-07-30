@@ -1,2 +1,2 @@
-# memorygame
-I designed a little game to learn Jquery and to help exercise my memory.
+# Brain Game
+I designed a game to help me learn Jquery but also to exercise my brain.
