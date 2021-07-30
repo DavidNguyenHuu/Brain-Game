@@ -1,4 +1,5 @@
 # Brain Game
-I designed a game to help me learn Jquery but also to exercise my brain.
+
+The purpose of this project is to learn and experiment with JQuery/Git commands/Github Pages.
 
 Link : https://davidnguyenhuu.github.io/memorygame/
