@@ -1,11 +1,25 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: orange;
+}
+
+#memory-game {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 4rem;
+  margin:  5%;
+  color: black;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
+  font-size: 2rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+#high-score {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
   margin:  5%;
   color: #FEF2BF;
 }
@@ -22,7 +36,7 @@ body {
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 10px solid black;
+  border: 3px solid black;
   border-radius: 20%;
 }
 
@@ -42,16 +56,48 @@ body {
 .purple{
   background-color: purple;
 }
-
+.pink{
+  background-color: pink;
+}
+.chocolate{
+  background-color: chocolate;
+}
 .blue {
   background-color: blue;
+}
+.cyan {
+  background-color: cyan;
+}
+.darkkhaki {
+  background-color: darkkhaki;
+}
+.gold {
+  background-color: gold;
+}
+.magenta {
+  background-color: magenta;
+}
+.mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.orangered {
+  background-color: orangered;
+}
+.paleturquoise {
+  background-color: paleturquoise;
+}
+.yellowgreen {
+  background-color: yellowgreen;
 }
 
 .yellow {
   background-color: yellow;
 }
+.grey {
+  background-color: grey;
+}
 
 .pressed {
-  box-shadow: 0 0 20px white;
-  background-color: grey;
+  box-shadow: 0 0 30px red;
+  background-color: black;
 }
